@@ -1,0 +1,181 @@
+2023-10-17 21:16:31,220 ************************** Test Execution Started ************************************ 
+2023-10-17 21:16:46,095 Facebook login test : Test Skipped 
+2023-10-17 21:16:46,380 Total number of testcases : 1 
+2023-10-17 21:16:46,380 Number of testcases Passed : 0 
+2023-10-17 21:16:46,380 Number of testcases Failed : 0 
+2023-10-17 21:16:46,380 Number of testcases Skipped  : 1 
+2023-10-17 21:16:46,381 Mail sending toggel is set to false 
+2023-10-17 21:16:46,381 Mail sent : false 
+2023-10-17 21:16:46,381 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:18:01,904 ************************** Test Execution Started ************************************ 
+2023-10-17 21:18:05,435 Facebook login test : Test Skipped 
+2023-10-17 21:18:05,695 Total number of testcases : 1 
+2023-10-17 21:18:05,695 Number of testcases Passed : 0 
+2023-10-17 21:18:05,695 Number of testcases Failed : 0 
+2023-10-17 21:18:05,695 Number of testcases Skipped  : 1 
+2023-10-17 21:18:05,696 Mail sending toggel is set to false 
+2023-10-17 21:18:05,696 Mail sent : false 
+2023-10-17 21:18:05,696 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:29:43,942 ************************** Test Execution Started ************************************ 
+2023-10-17 21:29:47,666 Facebook login test : Test Skipped 
+2023-10-17 21:29:47,982 Total number of testcases : 1 
+2023-10-17 21:29:47,982 Number of testcases Passed : 0 
+2023-10-17 21:29:47,982 Number of testcases Failed : 0 
+2023-10-17 21:29:47,982 Number of testcases Skipped  : 1 
+2023-10-17 21:29:47,983 Mail sending toggel is set to false 
+2023-10-17 21:29:47,983 Mail sent : false 
+2023-10-17 21:29:47,983 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:31:35,436 ************************** Test Execution Started ************************************ 
+2023-10-17 21:31:39,024 Facebook login test : Test Skipped 
+2023-10-17 21:31:39,296 Total number of testcases : 1 
+2023-10-17 21:31:39,296 Number of testcases Passed : 0 
+2023-10-17 21:31:39,296 Number of testcases Failed : 0 
+2023-10-17 21:31:39,296 Number of testcases Skipped  : 1 
+2023-10-17 21:31:39,297 Mail sending toggel is set to false 
+2023-10-17 21:31:39,297 Mail sent : false 
+2023-10-17 21:31:39,297 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:35:41,848 ************************** Test Execution Started ************************************ 
+2023-10-17 21:35:45,915 Facebook login test : Test Skipped 
+2023-10-17 21:35:46,169 Total number of testcases : 1 
+2023-10-17 21:35:46,169 Number of testcases Passed : 0 
+2023-10-17 21:35:46,169 Number of testcases Failed : 0 
+2023-10-17 21:35:46,169 Number of testcases Skipped  : 1 
+2023-10-17 21:35:46,170 Mail sending toggel is set to false 
+2023-10-17 21:35:46,170 Mail sent : false 
+2023-10-17 21:35:46,170 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:48:02,489 ************************** Test Execution Started ************************************ 
+2023-10-17 21:48:08,240 Facebook login test : Test Skipped 
+2023-10-17 21:48:08,484 Total number of testcases : 1 
+2023-10-17 21:48:08,484 Number of testcases Passed : 0 
+2023-10-17 21:48:08,484 Number of testcases Failed : 0 
+2023-10-17 21:48:08,484 Number of testcases Skipped  : 1 
+2023-10-17 21:48:08,486 Mail sending toggel is set to false 
+2023-10-17 21:48:08,486 Mail sent : false 
+2023-10-17 21:48:08,486 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:50:39,064 ************************** Test Execution Started ************************************ 
+2023-10-17 21:50:42,494 Facebook login test : Test Skipped 
+2023-10-17 21:50:42,742 Total number of testcases : 1 
+2023-10-17 21:50:42,742 Number of testcases Passed : 0 
+2023-10-17 21:50:42,742 Number of testcases Failed : 0 
+2023-10-17 21:50:42,742 Number of testcases Skipped  : 1 
+2023-10-17 21:50:42,743 Mail sending toggel is set to false 
+2023-10-17 21:50:42,743 Mail sent : false 
+2023-10-17 21:50:42,743 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:52:51,125 ************************** Test Execution Started ************************************ 
+2023-10-17 21:52:55,006 Facebook login test: Test started 
+2023-10-17 21:53:25,791 Facebook login test : Test Failed : Login failed : Test failed expected [true] but found [false] 
+2023-10-17 21:53:35,104 Total number of testcases : 1 
+2023-10-17 21:53:35,104 Number of testcases Passed : 0 
+2023-10-17 21:53:35,104 Number of testcases Failed : 1 
+2023-10-17 21:53:35,104 Number of testcases Skipped  : 0 
+2023-10-17 21:53:35,104 Mail sending toggel is set to false 
+2023-10-17 21:53:35,104 Mail sent : false 
+2023-10-17 21:53:35,104 ************************** Test Execution Finished ************************************ 
+2023-10-17 21:54:19,683 ************************** Test Execution Started ************************************ 
+2023-10-17 21:54:21,335 Facebook login test: Test started 
+2023-10-17 21:54:25,534 Facebook login test : Test Passed 
+2023-10-17 21:54:33,362 Total number of testcases : 1 
+2023-10-17 21:54:33,362 Number of testcases Passed : 1 
+2023-10-17 21:54:33,362 Number of testcases Failed : 0 
+2023-10-17 21:54:33,362 Number of testcases Skipped  : 0 
+2023-10-17 21:54:33,362 Mail sending toggel is set to false 
+2023-10-17 21:54:33,362 Mail sent : false 
+2023-10-17 21:54:33,362 ************************** Test Execution Finished ************************************ 
+2023-10-17 22:05:00,893 ************************** Test Execution Started ************************************ 
+2023-10-17 22:05:02,534 Google search test: Test started 
+2023-10-17 22:05:14,308 Google search test : Test Passed 
+2023-10-17 22:05:15,300 Total number of testcases : 1 
+2023-10-17 22:05:15,300 Number of testcases Passed : 1 
+2023-10-17 22:05:15,300 Number of testcases Failed : 0 
+2023-10-17 22:05:15,300 Number of testcases Skipped  : 0 
+2023-10-17 22:05:15,300 Mail sending toggel is set to false 
+2023-10-17 22:05:15,300 Mail sent : false 
+2023-10-17 22:05:15,300 ************************** Test Execution Finished ************************************ 
+2023-10-18 09:18:17,123 ************************** Test Execution Started ************************************ 
+2023-10-18 09:18:18,976 Google search test: Test started 
+2023-10-18 09:18:28,415 Google search test : Test Passed 
+2023-10-18 09:18:29,533 Total number of testcases : 1 
+2023-10-18 09:18:29,533 Number of testcases Passed : 1 
+2023-10-18 09:18:29,533 Number of testcases Failed : 0 
+2023-10-18 09:18:29,533 Number of testcases Skipped  : 0 
+2023-10-18 09:18:29,534 Mail sending toggel is set to false 
+2023-10-18 09:18:29,535 Mail sent : false 
+2023-10-18 09:18:29,535 ************************** Test Execution Finished ************************************ 
+2023-11-12 14:35:53,313 ************************** Test Execution Started ************************************ 
+2023-11-12 14:35:56,515 Facebook login test: Test started 
+2023-11-12 14:35:58,065 Facebook login test : Test Passed 
+2023-11-12 14:36:00,239 Total number of testcases : 1 
+2023-11-12 14:36:00,239 Number of testcases Passed : 1 
+2023-11-12 14:36:00,239 Number of testcases Failed : 0 
+2023-11-12 14:36:00,239 Number of testcases Skipped  : 0 
+2023-11-12 14:36:00,240 Mail sending toggel is set to false 
+2023-11-12 14:36:00,240 Mail sent : false 
+2023-11-12 14:36:00,240 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:06:37,368 ************************** Test Execution Started ************************************ 
+2023-11-12 16:06:38,932 amplifyappTest: Test started 
+2023-11-12 16:06:43,469 amplifyappTest : Test Passed 
+2023-11-12 16:06:44,441 Total number of testcases : 1 
+2023-11-12 16:06:44,441 Number of testcases Passed : 1 
+2023-11-12 16:06:44,441 Number of testcases Failed : 0 
+2023-11-12 16:06:44,441 Number of testcases Skipped  : 0 
+2023-11-12 16:06:44,441 Mail sending toggel is set to false 
+2023-11-12 16:06:44,441 Mail sent : false 
+2023-11-12 16:06:44,441 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:28:29,907 ************************** Test Execution Started ************************************ 
+2023-11-12 16:28:31,527 amplifyappTest: Test started 
+2023-11-12 16:28:42,292 amplifyappTest : Test Passed 
+2023-11-12 16:28:43,115 Total number of testcases : 1 
+2023-11-12 16:28:43,115 Number of testcases Passed : 1 
+2023-11-12 16:28:43,115 Number of testcases Failed : 0 
+2023-11-12 16:28:43,115 Number of testcases Skipped  : 0 
+2023-11-12 16:28:43,115 Mail sending toggel is set to false 
+2023-11-12 16:28:43,115 Mail sent : false 
+2023-11-12 16:28:43,115 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:29:13,160 ************************** Test Execution Started ************************************ 
+2023-11-12 16:29:14,655 amplifyappTest: Test started 
+2023-11-12 16:30:27,354 amplifyappTest : Test Passed 
+2023-11-12 16:30:28,547 Total number of testcases : 1 
+2023-11-12 16:30:28,547 Number of testcases Passed : 1 
+2023-11-12 16:30:28,547 Number of testcases Failed : 0 
+2023-11-12 16:30:28,547 Number of testcases Skipped  : 0 
+2023-11-12 16:30:28,548 Mail sending toggel is set to false 
+2023-11-12 16:30:28,548 Mail sent : false 
+2023-11-12 16:30:28,548 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:33:01,686 ************************** Test Execution Started ************************************ 
+2023-11-12 16:33:03,097 amplifyappAddToCart: Test started 
+2023-11-12 16:33:06,710 amplifyappAddToCart : Test Passed 
+2023-11-12 16:33:07,678 Total number of testcases : 1 
+2023-11-12 16:33:07,678 Number of testcases Passed : 1 
+2023-11-12 16:33:07,678 Number of testcases Failed : 0 
+2023-11-12 16:33:07,678 Number of testcases Skipped  : 0 
+2023-11-12 16:33:07,679 Mail sending toggel is set to false 
+2023-11-12 16:33:07,679 Mail sent : false 
+2023-11-12 16:33:07,679 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:49:18,295 ************************** Test Execution Started ************************************ 
+2023-11-12 16:49:19,894 amplifyappAddToCart: Test started 
+2023-11-12 16:49:25,407 amplifyappAddToCart : Test Passed 
+2023-11-12 16:49:26,120 Total number of testcases : 1 
+2023-11-12 16:49:26,120 Number of testcases Passed : 1 
+2023-11-12 16:49:26,120 Number of testcases Failed : 0 
+2023-11-12 16:49:26,120 Number of testcases Skipped  : 0 
+2023-11-12 16:49:26,120 Mail sending toggel is set to false 
+2023-11-12 16:49:26,120 Mail sent : false 
+2023-11-12 16:49:26,120 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:49:45,460 ************************** Test Execution Started ************************************ 
+2023-11-12 16:49:46,871 amplifyappAddToCart: Test started 
+2023-11-12 16:52:13,899 ************************** Test Execution Started ************************************ 
+2023-11-12 16:52:15,530 amplifyappAddToCart: Test started 
+2023-11-12 16:53:43,111 ************************** Test Execution Started ************************************ 
+2023-11-12 16:53:44,629 amplifyappAddToCart: Test started 
+2023-11-12 16:53:49,396 amplifyappAddToCart : Test Passed 
+2023-11-12 16:53:49,958 Total number of testcases : 1 
+2023-11-12 16:53:49,958 Number of testcases Passed : 1 
+2023-11-12 16:53:49,958 Number of testcases Failed : 0 
+2023-11-12 16:53:49,958 Number of testcases Skipped  : 0 
+2023-11-12 16:53:49,959 Mail sending toggel is set to false 
+2023-11-12 16:53:49,960 Mail sent : false 
+2023-11-12 16:53:49,960 ************************** Test Execution Finished ************************************ 
+2023-11-12 16:54:00,213 ************************** Test Execution Started ************************************ 
+2023-11-12 16:54:01,846 amplifyappAddToCart: Test started 
+2023-11-12 16:54:59,265 ************************** Test Execution Started ************************************ 
+2023-11-12 16:55:00,899 amplifyappAddToCart: Test started 
